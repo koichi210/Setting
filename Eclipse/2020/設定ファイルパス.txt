@@ -1,4 +1,0 @@
-・キーバインド設定パス
-	フォルダ：workspace\.metadata\.plugins\org.eclipse.core.runtime
-	ファイル：org.eclipse.ui.workbench.prefs
-
